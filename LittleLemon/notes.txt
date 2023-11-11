@@ -1,0 +1,36 @@
+SuperUser
+    username - anshuman
+    email - user@example.com
+    password - password
+ManagerUser
+    1. 
+        username - manager1
+        email - manager1@example.com
+        password - manager1@example.com
+    2. 
+        username - manager2
+        email - manager2@example.com
+        password - manager2@example.com
+    3. username - manager3
+        password - manager3@example.com
+    4. username - manager4
+       password - manager4@example.com
+Delivery Crew
+    1.
+        username - deliveryCrew1
+        password - deliveryCrew1@example.com
+    2. 
+        username - deliveryCrew2
+        password - deliveryCrew2@example.com
+    3.
+        username - deliveryCrew3
+        password - deliveryCrew3@example.com
+
+Other users / Customer
+
+    1. 
+        username - user1
+        password - user1@example.com
+    2. 
+        username - user2
+        password - user2@example.com
